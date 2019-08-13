@@ -5,7 +5,7 @@ hx711(int ADDO, int ADSK, int Address, int model, double defaultWeight)
 * ADSK - CLK
 * model - g or kg
 * defaultWeight - 10.0 (kg)
-
+----------
 * ativarHX711()
 * desativarHX711()
 * calibrarBalanca(unsigned long n)
