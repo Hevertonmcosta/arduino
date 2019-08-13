@@ -1,0 +1,11 @@
+hx711	KEYWORD1
+
+ativarHX711		KEYWORD2
+desativarHX711		KEYWORD2
+consultarPesoBalanca	KEYWORD2
+iniciarBalanca		KEYWORD2
+calibrarBalanca		KEYWORD2
+getEstavelBalanca	KEYWORD2
+
+g	LITERAL1
+kg	LITERAL1
