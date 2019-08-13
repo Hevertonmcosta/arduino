@@ -1,4 +1,4 @@
-HX711
+**HX711**
 
 hx711(int ADDO, int ADSK, int Address, int model, double defaultWeight)
 ADDO - DAT
